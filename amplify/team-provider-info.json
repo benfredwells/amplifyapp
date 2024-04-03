@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyapp": {}
+      },
+      "storage": {
+        "s3d4f147d4": {}
       }
     }
   }
